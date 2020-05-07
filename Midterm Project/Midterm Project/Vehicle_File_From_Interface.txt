@@ -1,0 +1,40 @@
+Dragster has a position of: 30 meters
+Stock Car has a position of: 100 meters
+Off Road Vehicle has a position of: 200 meters
+Dragster has a position of: 80 meters
+Stock Car has a position of: 200 meters
+Dragster has a position of: 150 meters
+Dragster has a position of: 240 meters
+Stock Car has a position of: 300 meters
+Off Road Vehicle has a position of: 400 meters
+Dragster has a position of: 350 meters
+Stock Car has a position of: 400 meters
+Dragster has a position of: 480 meters
+Stock Car has a position of: 500 meters
+Off Road Vehicle has a position of: 600 meters
+Dragster has a position of: 630 meters
+Stock Car has a position of: 600 meters
+Stock Car has a position of: 700 meters
+Dragster has a position of: 800 meters
+Off Road Vehicle has a position of: 800 meters
+Stock Car has a position of: 800 meters
+Dragster has a position of: 990 meters
+Dragster has a position of: 1200 meters
+Stock Car has a position of: 900 meters
+Dragster has a position of: 1430 meters
+Stock Car has a position of: 1000 meters
+Off Road Vehicle has a position of: 1000 meters
+Stock Car has a position of: 1100 meters
+Stock Car has a position of: 1200 meters
+Dragster has a position of: 1680 meters
+Stock Car has a position of: 1300 meters
+Stock Car has a position of: 1400 meters
+Stock Car has a position of: 1500 meters
+Stock Car has a position of: 1600 meters
+Dragster has a position of: 1950 meters
+Off Road Vehicle has a position of: 1200 meters
+Off Road Vehicle has a position of: 1400 meters
+Dragster has a position of: 2240 meters
+The race is over, Dragster has won!
+Stock Car has a position of: 1700 meters
+Off Road Vehicle has a position of: 1600 meters
